@@ -1,0 +1,128 @@
+Uri: http://online-shaqyru.tilda.ws/s6
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\s6-1.htm
+Content Type: text/html
+
+Uri: https://dl.dropboxusercontent.com/scl/fi/zlh0br5eaygw1n563148c/Isa_Alimusa_Elaman_Batyr_-_Bolashak_kelinshegim_73263571.mp3?rlkey=t6adnwaohxin6sq5lnl0aqomc&st=60kso5rc&dl=0
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\scl\fi\zlh0br5eaygw1n563148c\Isa_Alimusa_Elaman_Batyr_-_Bolashak_kelinshegim_73263571.mp3
+Content Type: audio/mpeg
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://online-shaqyru.tilda.ws/s6
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\s6.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/tild6134-3463-4538-a466-643538363536/vAsylm02.woff
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\tild6134-3463-4538-a466-643538363536\vAsylm02.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.pro/css/highlight.min.css
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\css\highlight.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.pro/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.pro/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-animation-ext-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-animation-ext-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/tild6436-3132-4561-a461-306130313339/free-icon-play-butto.png
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\tild6436-3132-4561-a461-306130313339\free-icon-play-butto.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.pro/tild6662-3532-4632-b563-376235613962/free-icon-pause-butt.png
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\tild6662-3532-4632-b563-376235613962\free-icon-pause-butt.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.pro/ws/project3957147/tilda-blocks-page50795837.min.css?t=1718668123
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\ws\project3957147\tilda-blocks-page50795837.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/ws/project3957147/tilda-blocks-page50795837.min.js?t=1718668123
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\ws\project3957147\tilda-blocks-page50795837.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.pro/tild3731-3032-4364-b232-616231323237/-/resize/20x/photo1713186541.jpeg
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\tild3731-3032-4364-b232-616231323237\-\resize\20x\photo1713186541.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.pro/tild6132-3032-4339-a334-613165383035/-/resizeb/20x/WhatsApp_Image_2024-.jpeg
+File Name: C:\Downloaded Web Sites\online-shaqyru.tilda.ws\tild6132-3032-4339-a334-613165383035\-\resizeb\20x\WhatsApp_Image_2024-.jpeg
+Content Type: image/jpeg
+
